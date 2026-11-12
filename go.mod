@@ -1,6 +1,6 @@
 module github.com/crowdsecurity/crowdsec
 
-go 1.25.1
+go 1.26
 
 require (
 	entgo.io/ent v0.14.2
@@ -10,7 +10,7 @@ require (
 	github.com/agext/levenshtein v1.2.3
 	github.com/alexliesenfeld/health v0.8.1
 	github.com/appleboy/gin-jwt/v2 v2.10.3
-	github.com/aws/aws-lambda-go v1.47.0
+	github.com/aws/aws-lambda-go v1.55.1
 	github.com/aws/aws-sdk-go-v2 v1.38.3
 	github.com/aws/aws-sdk-go-v2/config v1.31.6
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.19.4
